@@ -1,13 +1,6 @@
-"""
-Questo file servirà per seguire le lezioni di Fisica Computazionale
-formaggio fuso aggiunto
-https://x.com/McDonaldsJapan/status/1902291457773273431
-"""
 import math as m
 import matplotlib.pyplot as plt
-import scipy as sp
 import numpy as np
-import pandas as pd
 Matrix_A=np.array([[4,6,2],[9,10,3],[1,21,15]],int)
 '''
 print(Matrix_A)
